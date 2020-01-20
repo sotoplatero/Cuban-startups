@@ -1,4 +1,4 @@
-# Startups cubanas
+# Startups cubanas 🇨🇺 🚀
 
 Listado de las startups cubanas
 
