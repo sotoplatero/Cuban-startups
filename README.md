@@ -1,4 +1,4 @@
-# Cuban startups
+# Startups cubanas
 
 Listado de las startups cubanas
 
@@ -10,11 +10,13 @@ Listado de las startups cubanas
 * [ConfiCuba](https://www.conficuba.com): Directorio de Repostería Cubana. El mejor sitio para encontrar cakes, helados, panqueques y otras delicias.
 * [ConoceCuba](https://conocecuba.com/): Directorio de lugares y servicios.
 * [CubAPK](https://www.cubapk.com): Pasarela de aplicaciones cubanas para Android.
+* [CubaCitas](https://www.cubacitas.app): Encuentra amigos, pareja y vive grandes momentos.
 * [CubaJobs](https://cubajobs.net): CubaJobs es la web del trabajo en Cuba, el lugar de encuentro entre candidatos y empleadores, los protagonistas de cualquier progreso. Si quieres trabajar en Cuba o encontrar el profesional de la isla que impulse tu negocio, en CubaJobs te lo ponemos muy fácil. 
 * [CubaNetworking](https://cubanetworking.com): Conecta a empresas y a profesionales.
 * [Cuber](https://cubertaxi.com): Conectamos a conductores con pasajeros de forma eficiente, rápida y segura.
 * [Daxslab](https://www.daxslab.com): Aplicaciones web, móviles y de escritorio ágilmente desarrolladas a su medida.
 * [El Catre](https://www.elcatre.com): Red social de comercio electrónico. Aquí está el comercio.
+* [HogarEnCuba](http://hogarencuba.com): Facilitamos el contacto entre las personas que desean comprar y vender propiedades en Cuba. Podemos asesorarle en cuanto a los trámites necesarios en su gestión para que usted pueda lograr su objetivo en el menor tiempo posible.
 * [HomeRun](http://homerun.knal.es): Mi agente inmobiliario de bolsillo.
 * [Ledmanía](https://ledmania.nat.cu): Un sitio web que permite tanto a vendedores como a compradores relacionarse entre sí para efectuar una transacción comercial, comportándose como un súpermercado digital.
 * [NinjaCuba](https://www.ninjacuba.com): Ninjacuba es el lugar donde profesionales cubanos comparten su talento y habilidades para colaborar con proyectos e ideas.
@@ -23,4 +25,4 @@ Listado de las startups cubanas
 * [Qvaqui](https://www.qvaqui.com): Apasionados por la tecnología, haciendo crecer tu negocio online y promocionando tus redes sociales y crecimiento empresarial. Encantados con el desarrollo constante de plataformas, servicios online y marketing en todas las esferas.
 * [Qvashop](https://www.qvashop.com): Primera Tienda Online de Celulares y Computadoras en Cuba.
 * [Sube](http://subecuba.com): Aplicación de taxis en Cuba.
-* [Yotellevo](https://yotellevocuba.com): Una comunidad de choferes de taxis privados en Cuba. Los contactas antes de llegar a la isla y te dan sus precios para tus traslados en Cuba. 
+* [Yotellevo](https://yotellevocuba.com): Una comunidad de choferes de taxis privados en Cuba. Los contactas antes de llegar a la isla y te dan sus precios para tus traslados en Cuba.
