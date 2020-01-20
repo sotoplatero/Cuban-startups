@@ -2,7 +2,7 @@
 
 Listado de las startups cubanas
 
-* [Alamesa](https://www.alamesacuba.com): Directory of restaurants in Cuba.
+* [Alamesa](https://www.alamesacuba.com): Directorio de restaurantes en Cuba.
 * [Bache cubano](https://www.bachecubano.com): Web de negocios, tiendas y clasificados en Cuba. Especialidad en computadoras, celulares, accesorios, electrodomésticos, casas y carros así como sorteos y compras online.
 * [Bajanda](http://bajanda.app): Aplicación de taxis en Cuba.
 * [CarimarShow](https://www.carimarshow.com): Un catálogo promocional de series, películas, shows, novelas y mucho más. Toda la información gratis del mundo audiovisual en una aplicación.
