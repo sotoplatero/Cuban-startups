@@ -18,6 +18,7 @@ Listado de las startups cubanas
 * [El Catre](https://www.elcatre.com): Red social de comercio electrónico. Aquí está el comercio.
 * [HogarEnCuba](http://hogarencuba.com): Facilitamos el contacto entre las personas que desean comprar y vender propiedades en Cuba. Podemos asesorarle en cuanto a los trámites necesarios en su gestión para que usted pueda lograr su objetivo en el menor tiempo posible.
 * [HomeRun](http://homerun.knal.es): Mi agente inmobiliario de bolsillo.
+* [La Nave](https://lanave.app): Una aplicación móvil que conecta personas, paisajes y rutas en Cuba las 24 horas, cualquiera sea tu destino.
 * [Ledmanía](https://ledmania.nat.cu): Un sitio web que permite tanto a vendedores como a compradores relacionarse entre sí para efectuar una transacción comercial, comportándose como un súpermercado digital.
 * [NinjaCuba](https://www.ninjacuba.com): Ninjacuba es el lugar donde profesionales cubanos comparten su talento y habilidades para colaborar con proyectos e ideas.
 * [Pickocar](https://pickocar.com): Servicio de taxis en Cuba, con precios increíbles y rutas que conectan varios de los destinos más importantes de la isla.
