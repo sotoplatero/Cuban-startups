@@ -20,6 +20,7 @@ Listado de las startups cubanas
 * [HomeRun](http://homerun.knal.es): Mi agente inmobiliario de bolsillo.
 * [La Nave](https://lanave.app): Una aplicación móvil que conecta personas, paisajes y rutas en Cuba las 24 horas, cualquiera sea tu destino.
 * [Ledmanía](https://ledmania.nat.cu): Un sitio web que permite tanto a vendedores como a compradores relacionarse entre sí para efectuar una transacción comercial, comportándose como un súpermercado digital.
+* [Merolico](https://merolico.app): Directorio de anuncios clasificados en Cuba al estilo Craigslist.
 * [NinjaCuba](https://www.ninjacuba.com): Ninjacuba es el lugar donde profesionales cubanos comparten su talento y habilidades para colaborar con proyectos e ideas.
 * [Pickocar](https://pickocar.com): Servicio de taxis en Cuba, con precios increíbles y rutas que conectan varios de los destinos más importantes de la isla.
 * [QuinielaCuba](https://www.quinielacuba.com): Tu plataforma de pronósticos de Fútbol.
